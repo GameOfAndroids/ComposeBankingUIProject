@@ -71,7 +71,7 @@ fun WalletSection(
                     fontFamily = FontFamily(
                         Font(R.font.poppins_light)
                     ),
-                    color = Gray,
+                    color = LightGray,
                     fontSize = 18.sp
                 )
             )
